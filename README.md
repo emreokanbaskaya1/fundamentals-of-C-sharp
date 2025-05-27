@@ -63,7 +63,7 @@ This repository serves as:
 
 This repository is intended for **educational purposes only**.  
 All course content is based on the [original Udemy course](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/).  
-Please credit the original instructor and platform if sharing or adapting any part of this work.
+
 
 ---
 
