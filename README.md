@@ -1,70 +1,69 @@
-# 🎯 C# Programming – From Beginner to Advanced (Udemy Course Notes & Projects)
+🎯 C# Programming – From Beginner to Advanced
+Notes, Exercises & Projects from Udemy Course: "Sıfırdan İleri Seviye C# Programlama"
+📌 Purpose of This Repository
+This repository is a personal learning archive created as I progress through the Udemy course "Sıfırdan İleri Seviye C# Programlama" (C# Programming from Scratch to Advanced).
 
-This repository contains my personal notes, exercises, and projects developed while following the [Udemy course: "Sıfırdan İleri Seviye C# Programlama"](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/), which translates to *"C# Programming from Scratch to Advanced"*.
+🧩 Every single line of code has been written manually — no copy-paste from the course or external sources.
 
-The course is designed for anyone who wants to enter the world of software development and learn how to build real-world applications using C# and .NET technologies.
+🧠 The purpose is to reinforce concepts by practice, not just to follow along.
 
----
+📘 It serves as a reference for myself and a guide for others who may be taking the same course.
 
-## 📚 What This Repository Includes
+🛠️ Includes improvements, customizations, and my own solutions beyond what's taught in the videos.
 
-- Basic syntax and tools: variables, data types, conditionals, loops, arrays
-- Functions, methods, and object-oriented programming (OOP)
-- File operations (reading, writing, directory creation)
-- SQL and Access database integration
-- CRUD operations (Create, Read, Update, Delete)
-- LINQ queries and data filtering
-- Entity Framework (ORM)
-- Real-world projects: Hospital Automation, School Management System
-- Multi-layer architecture (N-Tier architecture) project development
+📚 What This Repository Includes
+✅ Basic syntax and tools: variables, data types, conditionals, loops, arrays
 
----
+✅ Functions, methods, and object-oriented programming (OOP)
 
-## 🧠 What You Will Learn
+✅ File operations: read/write files, folder management
 
-- Understanding the fundamentals of the C# language
-- Using Visual Studio and .NET tools effectively
-- Writing object-oriented programs using classes, methods, and inheritance
-- Performing SQL operations: Select, Insert, Update, Delete
-- Creating automation systems and inventory management apps
-- Designing and developing projects with layered architecture
-- Integrating 2D game frameworks and working with data files
-- Using Datasets, DataTables, and Access/SQL Server in real applications
+✅ Database integration with SQL and MS Access
 
-## ⚙️ Requirements
+✅ CRUD operations: Create, Read, Update, Delete
 
-- Windows operating system
-- Visual Studio 2017 or later installed
-- .NET Framework 4.7 or higher
-- No prior programming knowledge required — just the willingness to learn
+✅ LINQ for data querying and filtering
 
----
+✅ Entity Framework (EF) and Object-Relational Mapping (ORM)
 
-## 👨‍💻 Who This Course Is For
+✅ Real-world projects: Hospital Automation, School Management System
 
-- Beginners stepping into the programming world
-- Developers wanting to refresh their C# and .NET skills
-- Students aiming to understand OOP and database-driven app development
-- Anyone wanting to build real-life software projects with modern tools
+✅ Multi-layer (N-Tier) architecture implementation
 
----
+🧠 What You Will Learn
+Solid understanding of C# language fundamentals
 
-## 📌 Purpose of This Repository
+Mastery of Visual Studio and .NET development tools
 
-This repository serves as:
+Writing clean, modular code using object-oriented programming
 
-- A record of my learning process
-- A reference for other learners following the same course
-- A way to practice and reinforce my skills through hands-on projects
+Building database-driven applications with SQL and Access
 
----
+Creating real-world desktop automation and inventory systems
 
-## 📜 License & Credits
+Structuring projects with multi-layered architecture
 
-This repository is intended for **educational purposes only**.  
-All course content is based on the [original Udemy course](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/).  
+Working with Datasets, DataTables, and game frameworks
 
+⚙️ Requirements
+Windows OS
 
----
+Visual Studio 2017 or later
 
-Feel free to clone, fork, or suggest improvements if you’re on the same journey 🚀
+.NET Framework 4.7+
+
+No prior coding knowledge needed — just motivation to learn and build
+
+👨‍💻 Who This Course Is For
+Beginners taking their first steps into programming
+
+Developers looking to refresh their C#/.NET knowledge
+
+Students wanting hands-on OOP and database project experience
+
+Anyone curious to build real-life applications from scratch
+
+📜 License & Credits
+This repository is for educational and personal development purposes only.
+All concepts are based on the original Udemy course.
+Suggestions, forks, and collaboration are welcome 🚀
