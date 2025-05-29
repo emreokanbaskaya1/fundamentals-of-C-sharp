@@ -62,5 +62,5 @@ This repository is a **personal learning archive** created as I progress through
 ## 📜 License & Credits
 
 This repository is for **educational purposes only**.  
-All course material is inspired by the original [Udemy course](https://www.udemy.com/).  
+All course material is inspired by the original [Udemy course](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/).  
 Feel free to fork, clone, or suggest improvements if you're on a similar learning journey 🚀
