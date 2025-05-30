@@ -9,8 +9,6 @@ This repository is a **personal learning archive** created as I progress through
 
 - 🧩 **Every single line of code has been written manually** — there is absolutely **no copy-pasting** from the course or other sources.
 - 🧠 The main purpose is to **practice and reinforce my understanding** of C# through hands-on development.
-- 📘 It serves as **a learning log for myself** and potentially **a helpful reference for other students** following a similar path.
-- 🔧 Includes **custom improvements and original solutions** beyond what is covered in the course.
 
 ---
 
