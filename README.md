@@ -28,37 +28,6 @@ This repository is a **personal learning archive** created as I progress through
 
 ---
 
-## 🧠 What You Will Learn
-
-- Solid understanding of **C# programming fundamentals**
-- Proficient use of **Visual Studio** and **.NET development tools**
-- Writing object-oriented programs with **classes, methods, and inheritance**
-- Implementing **SQL operations**: Select, Insert, Update, Delete
-- Building **automation systems and inventory applications**
-- Designing and developing applications using **multi-layer architecture**
-- Working with **Datasets**, **DataTables**, and database files
-- Integrating **2D game frameworks** and handling file-based data storage
-
----
-
-## ⚙️ Requirements
-
-- Windows operating system  
-- Visual Studio 2017 or newer  
-- .NET Framework 4.7 or above  
-- No prior coding experience needed — just a strong desire to learn  
-
----
-
-## 👨‍💻 Who This Course Is For
-
-- Beginners stepping into the world of programming  
-- Developers looking to refresh their **C# and .NET** skills  
-- Students who want to understand **OOP and database-driven app development**  
-- Anyone who wants to build **real-world software projects** using modern tools  
-
----
-
 ## 📜 License & Credits
 
 This repository is for **educational purposes only**.  
