@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\bin\Debug\net8.0-windows\Captcha.exe
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\bin\Debug\net8.0-windows\Captcha.deps.json
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\bin\Debug\net8.0-windows\Captcha.runtimeconfig.json
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\bin\Debug\net8.0-windows\Captcha.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\bin\Debug\net8.0-windows\Captcha.pdb
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.Form1.resources
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.AssemblyInfo.cs
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\refint\Captcha.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.pdb
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\Captcha.genruntimeconfig.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Captcha\obj\Debug\net8.0-windows\ref\Captcha.dll
