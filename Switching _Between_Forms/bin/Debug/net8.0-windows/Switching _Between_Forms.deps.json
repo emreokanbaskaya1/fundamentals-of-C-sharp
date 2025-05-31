@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Switching _Between_Forms/1.0.0": {
+        "runtime": {
+          "Switching _Between_Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Switching _Between_Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\bin\Debug\net8.0-windows\Switching _Between_Forms.exe
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\bin\Debug\net8.0-windows\Switching _Between_Forms.deps.json
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\bin\Debug\net8.0-windows\Switching _Between_Forms.runtimeconfig.json
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\bin\Debug\net8.0-windows\Switching _Between_Forms.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\bin\Debug\net8.0-windows\Switching _Between_Forms.pdb
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching__Between_Forms.Form1.resources
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching__Between_Forms.Form2.resources
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.AssemblyInfo.cs
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\refint\Switching _Between_Forms.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.pdb
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\Switching _Between_Forms.genruntimeconfig.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\Switching _Between_Forms\obj\Debug\net8.0-windows\ref\Switching _Between_Forms.dll
