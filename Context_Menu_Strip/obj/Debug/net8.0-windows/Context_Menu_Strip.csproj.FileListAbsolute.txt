@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\bin\Debug\net8.0-windows\Context_Menu_Strip.exe
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\bin\Debug\net8.0-windows\Context_Menu_Strip.deps.json
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\bin\Debug\net8.0-windows\Context_Menu_Strip.runtimeconfig.json
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\bin\Debug\net8.0-windows\Context_Menu_Strip.dll
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\bin\Debug\net8.0-windows\Context_Menu_Strip.pdb
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.Form1.resources
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.csproj.GenerateResource.cache
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.AssemblyInfo.cs
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.dll
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\refint\Context_Menu_Strip.dll
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.pdb
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\Context_Menu_Strip.genruntimeconfig.cache
+C:\Users\user\source\repos\udemy_sıfırdan_c_sharp\Context_Menu_Strip\obj\Debug\net8.0-windows\ref\Context_Menu_Strip.dll
