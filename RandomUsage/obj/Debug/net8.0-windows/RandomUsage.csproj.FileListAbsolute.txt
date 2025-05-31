@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\bin\Debug\net8.0-windows\RandomUsage.exe
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\bin\Debug\net8.0-windows\RandomUsage.deps.json
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\bin\Debug\net8.0-windows\RandomUsage.runtimeconfig.json
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\bin\Debug\net8.0-windows\RandomUsage.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\bin\Debug\net8.0-windows\RandomUsage.pdb
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.Form1.resources
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.AssemblyInfo.cs
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\refint\RandomUsage.dll
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.pdb
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\RandomUsage.genruntimeconfig.cache
+C:\Users\user\Desktop\Yazılım\udemy_sıfırdan_c_sharp\RandomUsage\obj\Debug\net8.0-windows\ref\RandomUsage.dll
