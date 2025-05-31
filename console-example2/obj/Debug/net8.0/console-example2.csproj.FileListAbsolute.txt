@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\udemy_projeler\console-example2\bin\Debug\net8.0\console-example2.exe
+C:\Users\user\source\repos\udemy_projeler\console-example2\bin\Debug\net8.0\console-example2.deps.json
+C:\Users\user\source\repos\udemy_projeler\console-example2\bin\Debug\net8.0\console-example2.runtimeconfig.json
+C:\Users\user\source\repos\udemy_projeler\console-example2\bin\Debug\net8.0\console-example2.dll
+C:\Users\user\source\repos\udemy_projeler\console-example2\bin\Debug\net8.0\console-example2.pdb
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.AssemblyInfo.cs
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.dll
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\refint\console-example2.dll
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.pdb
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\console-example2.genruntimeconfig.cache
+C:\Users\user\source\repos\udemy_projeler\console-example2\obj\Debug\net8.0\ref\console-example2.dll
