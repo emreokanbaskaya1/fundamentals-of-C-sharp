@@ -15,15 +15,7 @@ This repository is a **personal learning archive** created as I progress through
 ## 📚 What This Repository Includes
 
 - ✅ Basic syntax and tools: variables, data types, conditionals, loops, arrays  
-- ✅ Functions, methods, and object-oriented programming (OOP)  
-- ✅ File operations: reading, writing, directory creation  
-- ✅ Database integration: SQL and Microsoft Access  
-- ✅ CRUD operations (Create, Read, Update, Delete)  
-- ✅ LINQ queries and data filtering  
-- ✅ Entity Framework (ORM usage)  
-- ✅ Real-world projects: Hospital Automation, School Management System  
-- ✅ Multi-layer architecture (N-Tier) project structure and best practices  
-
+- ✅ Functions, methods, and object-oriented programming (OOP)
 ---
 
 ## 📜 License & Credits
