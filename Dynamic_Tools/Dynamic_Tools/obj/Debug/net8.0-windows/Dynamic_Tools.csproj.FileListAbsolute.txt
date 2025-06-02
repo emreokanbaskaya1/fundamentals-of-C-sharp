@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\bin\Debug\net8.0-windows\Dynamic_Tools.exe
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\bin\Debug\net8.0-windows\Dynamic_Tools.deps.json
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\bin\Debug\net8.0-windows\Dynamic_Tools.runtimeconfig.json
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\bin\Debug\net8.0-windows\Dynamic_Tools.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\bin\Debug\net8.0-windows\Dynamic_Tools.pdb
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.Form1.resources
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.AssemblyInfo.cs
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\refint\Dynamic_Tools.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.pdb
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\Dynamic_Tools.genruntimeconfig.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Dynamic_Tools\Dynamic_Tools\obj\Debug\net8.0-windows\ref\Dynamic_Tools.dll
