@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.Form1.resources
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.AssemblyInfo.cs
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\bin\Debug\net8.0-windows\PointUsage.exe
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\bin\Debug\net8.0-windows\PointUsage.deps.json
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\bin\Debug\net8.0-windows\PointUsage.runtimeconfig.json
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\bin\Debug\net8.0-windows\PointUsage.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\bin\Debug\net8.0-windows\PointUsage.pdb
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\refint\PointUsage.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.pdb
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\PointUsage.genruntimeconfig.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\PointUsage\PointUsage\obj\Debug\net8.0-windows\ref\PointUsage.dll
