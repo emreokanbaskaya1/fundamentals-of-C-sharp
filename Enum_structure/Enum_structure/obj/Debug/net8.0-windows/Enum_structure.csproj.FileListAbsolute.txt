@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\bin\Debug\net8.0-windows\Enum_structure.exe
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\bin\Debug\net8.0-windows\Enum_structure.deps.json
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\bin\Debug\net8.0-windows\Enum_structure.runtimeconfig.json
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\bin\Debug\net8.0-windows\Enum_structure.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\bin\Debug\net8.0-windows\Enum_structure.pdb
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.Form1.resources
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.AssemblyInfo.cs
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\refint\Enum_structure.dll
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.pdb
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\Enum_structure.genruntimeconfig.cache
+C:\Users\user\Desktop\Software Works\udemy_sıfırdan_c_sharp\Enum_structure\Enum_structure\obj\Debug\net8.0-windows\ref\Enum_structure.dll
